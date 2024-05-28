@@ -1,0 +1,5 @@
+from,to,weight,relation
+LW,JR,1,9
+LW,SW,2,3
+LW,LJ,1,1
+LW,KW,2,9

@@ -1,0 +1,45 @@
+
+Edgelist
+from= ID Knoten
+to= ID Knoten (Richtung)
+"weight= Beziehung codiert als
+1 = täglich
+2 = einmal pro Woche
+3 = einmal pro Monat
+4 = weniger als einmal pro Monat"
+"relation = Beziehung der Personen
+1 = Partner
+2 = Mutter/Vater
+3 = Schwester/Bruder
+4 = Kind
+5 = Nachbar
+6 = Arbeitskollege
+7 = Kommolitone/in
+8 = Mitglied in gleicher Gruppe
+9 = Freund/in
+10 = Ratgeber/in"
+
+Nodelist
+id = ID Abkürzung 
+name = voller Name der Person
+"sex = Geschlecht der Person
+weiblich = 1
+männlich = 2"
+age = Alter der Person
+"religion = Religion der Person
+evangelisch = 1
+katholisch = 2
+jüdisch = 3
+islamisch = 4
+buddhistisch = 5
+orthodox = 6
+andere = 7
+keine = 8"
+"education = Höchster Bildungsabschluss der Person
+Hauptschule = 1
+Mittlere Reife = 2
+Fachhochschulreife = 3
+Abitur = 4
+Studium = 5
+Promotion = 6
+weiss nicht = 7"
